@@ -1,0 +1,18 @@
+# Task 2: Exploratory Data Analysis (EDA) - Report
+
+## Dataset Used: Titanic Dataset
+
+### Objective:
+To explore and analyze the Titanic dataset and derive patterns related to passenger survival.
+
+### Key Insights:
+- Most passengers did not survive.
+- Females had a higher survival rate compared to males.
+- Passengers from higher classes (Pclass 1) had better chances of survival.
+- Missing values are present in "Age", "Cabin", and "Embarked".
+- Age distribution shows most passengers were in the 20-40 age range.
+
+### Libraries Used:
+- pandas
+- seaborn
+- matplotlib
